@@ -25,6 +25,7 @@ conda-env                 2.1.4                    py27_0
 configobj                 5.0.6                    py27_0  
 cosmocalc                 0.1.2                     <pip>
 cryptography              0.8                      py27_0  
+cxotime                   0.1                       <pip>
 cython                    0.22                     py27_0  
 dateutil                  2.1                      py27_2  
 db                        5.3.28                        0  
@@ -120,7 +121,7 @@ ska.arc5gl                0.1.1                     <pip>
 ska.astro                 0.2.1                     <pip>
 ska.ciao                  0.2.1                     <pip>
 ska.dbi                   0.8.1                     <pip>
-ska.engarchive            0.36.4                    <pip>
+ska.engarchive            0.36.5                    <pip>
 ska.file                  0.4.1                     <pip>
 ska.ftp                   0.4.1                     <pip>
 ska.matplotlib            0.11.2                    <pip>
