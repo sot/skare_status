@@ -1,7 +1,5 @@
 # packages in environment at /proj/sot/ska/arch/x86_64-linux_CentOS-5:
 #
-Could not extract name and version from: 'You are using pip version 6.0.8, however version 8.1.1 is available.'
-Could not extract name and version from: "You should consider upgrading via the 'pip install --upgrade pip' command."
 agasc                     0.3.1                     <pip>
 asciitable                0.8.0                     <pip>
 astropy                   1.0.3                np19py27_0  
@@ -20,8 +18,8 @@ chandra.ecf               0.2.1                     <pip>
 chandra.maneuver          0.5.1                     <pip>
 chandra.taco              0.2.1                     <pip>
 chandra.time              3.19.1                    <pip>
-conda                     3.12.0                   py27_0  
-conda-env                 2.1.4                    py27_0  
+conda                     3.19.0                   py27_0  
+conda-env                 2.4.5                    py27_0  
 configobj                 5.0.6                    py27_0  
 cosmocalc                 0.1.2                     <pip>
 cryptography              0.8                      py27_0  
@@ -78,7 +76,7 @@ parse-cm                  0.2                       <pip>
 pep8                      1.6.2                    py27_0  
 pexpect                   3.3                       <pip>
 pillow                    2.8.1                    py27_2  
-pip                       6.0.8                    py27_0  
+pip                       7.1.2                    py27_0  
 pixman                    0.26.2                        0  
 ply                       3.4                      py27_0  
 psutil                    2.2.1                    py27_0  
@@ -111,7 +109,7 @@ requests                  2.6.0                    py27_0
 rope                      0.9.4                    py27_1  
 runipy                    0.1.3                    py27_0  
 scipy                     0.15.1               np19py27_0  
-setuptools                16.0                     py27_0  
+setuptools                18.8.1                   py27_0  
 sherpa                    4.7                       <pip>
 shiboken                  1.2.1                    py27_0  
 sip                       4.16.5                   py27_0  
@@ -145,6 +143,7 @@ tables                    2.3.1                     <pip>
 terminado                 0.5                      py27_0  
 tk                        8.5.18                        0  
 tornado                   4.1                      py27_0  
+wheel                     0.29.0                   py27_0  
 xija                      0.4                       <pip>
 yaml                      0.1.4                         0  
 zeromq                    4.0.4                         0  
