@@ -8,7 +8,7 @@ agasc-0.3.1.tar.gz
 asciitable-0.8.0.tar.gz
 autopep8-1.1.1.tar.gz
 BeautifulSoup-3.2.1.tar.gz
-chandra_aca-0.4.tar.gz
+chandra_aca-0.02.tar.gz
 chandra_models-0.6.tar.gz
 Chandra.cmd_states-0.09.1.tar.gz
 Chandra.ECF-0.02.tar.gz
@@ -20,13 +20,11 @@ Django-1.6.1.tar.gz
 egenix-mx-base-3.0.0.tar.gz
 find_attitude-0.1.tar.gz
 h5py-2.4.0.tar.gz
-hopper-0.1.tar.gz
 kadi-0.12.2.tar.gz
 matplotlib-1.4.3-local-qhull.tar.gz
 mica-0.5.tar.gz
 mpld3-0.2.tar.gz
 numexpr-2.2.2.tar.gz
-parse_cm-0.1.tar.gz
 pexpect-3.3.tar.gz
 pyfits-3.3.tar.gz
 pyger-0.6.tar.gz
